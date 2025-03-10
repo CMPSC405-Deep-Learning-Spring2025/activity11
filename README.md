@@ -17,11 +17,6 @@
    - Modify at least one of the 3×3 filters to a larger size (e.g., 5×5)
    - How does increasing the filter size affect the image?
 
-
-## Run the Program
-- Execute filters.py to apply the default filters
-- Create  `custom_filter` in the program to test your own filter
-
 ## Observations
 
 1. Compare the output images for different filters and determine the function of each filter
